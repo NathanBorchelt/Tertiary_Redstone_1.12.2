@@ -1,14 +1,14 @@
 [
 {
-  "modid": "tm",
-  "name": "Ternary Redstone",
-  "description": "An attempt to create a balanced ternary electrics system in Minecraft, consisting of the states negative (-1), neutral/unknown (0), and high (+1)",
-  "version": "0.1",
+  "modid": "tutorialmod",
+  "name": "Tutorial Mod",
+  "description": "A Minecraft Modding 1.12.2 Tutorial Series on YouTube!",
+  "version": "1.0",
   "mcversion": "1.12.2",
-  "url": "",
+  "url": "https://www.youtube.com/channel/UCicAXLV4w2X6bn2EuM4To4w?view_as=subscriber",
   "updateUrl": "",
-  "authorList": ["BorcheltSki"],
-  "credits": "Nathan "Borcheltski" Borchelt, Dr. Marc Beck",
+  "authorList": ["TurtyWurty(me)"],
+  "credits": "My subscribers!",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
