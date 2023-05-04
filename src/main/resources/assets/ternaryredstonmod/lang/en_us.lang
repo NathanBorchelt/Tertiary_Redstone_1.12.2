@@ -1,0 +1,7 @@
+item.ternstone_dust.name = "Ternstone Dust"
+tile.ternstone_torch.name = "Ternstone Torch"
+tile.ternstone_repeater.name = "Ternstone Repeater"
+tile.ternstone_wire.name = "Ternstone Wire"
+tile.ternstone_comparator.name = "Ternstone Comparator "
+tile.ternstone_lamp.name = "Ternstone Lamp"
+tile.ternstone_block.name = "Block of Ternstone"
